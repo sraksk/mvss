@@ -1,4 +1,4 @@
 Mobile video surveillance system
 _______________________________________________
-This repositry is a Code part of MVSS
+Build Scripts, Linux Device Drivers, Applications for MVSS
 
